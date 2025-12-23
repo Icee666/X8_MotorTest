@@ -290,5 +290,3 @@ The following places are intended to be tuned for your specific hardware:
 ---
 
 ## License
-
-Add your preferred license here (e.g. MIT, Apache 2.0, etc.).
